@@ -1,0 +1,75 @@
+{
+  "name": "Churn Analytics - Steelblue & Salmon",
+  "dataColors": [
+    "#4682B4",
+    "#FA8072",
+    "#2E8B57",
+    "#8A2BE2",
+    "#DAA520",
+    "#708090",
+    "#00B7C7",
+    "#FF8C00"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#222222",
+  "tableAccent": "#4682B4",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 14,
+            "fontWeight": "bold",
+            "color": "#222222"
+          }
+        ],
+        "labels": [
+          {
+            "fontFamily": "Segoe UI",
+            "fontSize": 11,
+            "color": "#333333"
+          }
+        ]
+      }
+    },
+    "clusteredBarChart": {
+      "*": {
+        "dataPoint": [
+          {
+            "defaultColor": { "solid": { "color": "#4682B4" } },
+            "showAllDataPoints": true
+          }
+        ]
+      }
+    },
+    "stackedColumnChart": {
+      "*": {
+        "dataPoint": [
+          {
+            "defaultColor": { "solid": { "color": "#FA8072" } },
+            "showAllDataPoints": true
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "categoryLabels": [
+          { "color": "#666666", "fontSize": 11 }
+        ],
+        "labels": [
+          { "color": "#222222", "fontSize": 18, "fontWeight": "bold" }
+        ],
+        "visualHeader": [
+          { "show": true }
+        ]
+      }
+    }
+  },
+  "textClasses": {
+    "callout": { "fontSize": 18, "fontFamily": "Segoe UI", "fontWeight": "bold" },
+    "title": { "fontSize": 14, "fontFamily": "Segoe UI", "fontWeight": "bold" },
+    "label": { "fontSize": 11, "fontFamily": "Segoe UI" }
+  }
+} 

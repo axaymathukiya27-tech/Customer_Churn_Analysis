@@ -1,0 +1,76 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# ===============================
+# Virtual Environments
+# ===============================
+env/
+venv/
+.venv/
+ENV/
+
+# ===============================
+# Jupyter Notebook
+# ===============================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ===============================
+# Data Files (Raw / Generated)
+# ===============================
+data/raw/*.csv
+data/processed/*.csv
+sql/sql_exports/
+sql/query_results/
+
+# ===============================
+# Model Artifacts
+# ===============================
+models/*.pkl
+models/*.joblib
+models/*.npy
+
+# ===============================
+# Logs & Temp
+# ===============================
+logs/
+*.log
+tmp/
+temp/
+
+# ===============================
+# Reports & Generated Figures
+# ===============================
+reports/figures/
+reports/metrics/
+
+# ===============================
+# Power BI
+# ===============================
+power bi/*.pbix
+
+# ===============================
+# OS Files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# IDE
+# ===============================
+.vscode/
+.idea/
+
+# ===============================
+# Environment Variables
+# ===============================
+.env
+.env.*

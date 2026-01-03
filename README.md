@@ -15,7 +15,7 @@ The solution combines data analysis, business intelligence, and predictive insig
 ## 🔗 Live Project Links
 
 - 🌐 **Live Portfolio Website:** https://auronex-portfolio.vercel.app   
-- 📁 **GitHub Repository:** https://github.com/axaymathukiya27-tech/Customer-Churn-Analysis
+- 📁 **GitHub Repository:** https://github.com/axaymathukiya27-tech/Customer_Churn_Analysis
 
 
 ## 🎯 Business Problems Solved
